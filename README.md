@@ -16,6 +16,7 @@
 <p align="center"><a href="https://github.com/Gunnarguy/OpenIntelligence"><img src="assets/openintelligence-icon.png" alt="OpenIntelligence icon" width="92"></a></p>
 <h3 align="center"><a href="https://github.com/Gunnarguy/OpenIntelligence">OpenIntelligence</a></h3>
 <p>Local-first document intelligence for PDFs, scans, and user-controlled files. OCR, source-backed retrieval, visible citations, and Apple-native AI.</p>
+<p><a href="https://gunnarguy.me/projects/openintelligence/#evaluation">How I evaluate it →</a></p>
 <p align="center"><a href="https://apps.apple.com/us/app/openintelligence/id6756559175">App Store</a> · <a href="https://github.com/Gunnarguy/OpenIntelligence">Source</a></p>
 </td>
 <td width="33%" valign="top">
