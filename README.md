@@ -15,7 +15,7 @@
 
 **I build Apple-native apps that turn dense, messy information into something you can search, inspect, and trust.**
 
-I build AI-native iOS apps. Four are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. The rest of my time, I'm in the operating room: intraoperative technical support for Stryker at the VA in Palo Alto, in the room with Stanford surgical teams. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
+I build AI-native iOS apps. Five are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. The rest of my time, I'm in the operating room: intraoperative technical support for Stryker at the VA in Palo Alto, in the room with Stanford surgical teams. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
 
 Everything here is built and shipped solo.
 
@@ -44,6 +44,21 @@ Everything here is built and shipped solo.
 <a href="https://gunzino.notion.site/OpenIntelligence-Public-Roadmap-e4446012bb8940e6b78a745aee688075">Public roadmap</a> &nbsp;·&nbsp;
 <a href="https://www.youtube.com/playlist?list=PLG7ayF50szdiUIeF8gm7p4PhzXzQ_wUkR">Demos</a> &nbsp;·&nbsp;
 <a href="https://gunzino.me/openintelligence/">Product site</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="150" align="center" valign="top">
+<a href="https://gunnarguy.me/projects/openmanual/"><img src="assets/openmanual-icon.png" width="120" height="120" alt="OpenManual app icon"></a>
+</td>
+<td valign="top">
+<h3><a href="https://gunnarguy.me/projects/openmanual/">OpenManual</a></h3>
+<p><sub>iPhone and iPad &nbsp;·&nbsp; on the App Store since September 2026 &nbsp;·&nbsp; source private</sub></p>
+<p>Point your phone at a device, appliance, tool, vehicle, or other documented thing. OpenManual identifies the exact unit, finds the manufacturer documentation that applies to that device and revision, and answers "How do I ___?" using only that document, with page-level citations. No OpenManual backend. No account. No API key. Camera frames and imported PDFs stay on the iPhone.</p>
+<p>
+<a href="https://apps.apple.com/app/apple-store/id6804523993?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
+<a href="https://gunnarguy.me/projects/openmanual/">Deep dive</a> &nbsp;·&nbsp;
+<a href="https://gunzino.me/openmanual/">Product site</a>
 </p>
 </td>
 </tr>
@@ -85,25 +100,6 @@ Everything here is built and shipped solo.
 <a href="https://github.com/Gunnarguy/OpenAssistant">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openassistant/">Deep dive</a> &nbsp;·&nbsp;
 <a href="https://gunzino.me/openassistant/">Product site</a>
-</p>
-</td>
-</tr>
-</table>
-
-## Heading to the App Store
-
-<table>
-<tr>
-<td width="150" align="center" valign="top">
-<a href="https://gunnarguy.me/projects/openmanual/"><img src="assets/openmanual-icon.png" width="120" height="120" alt="OpenManual app icon"></a>
-</td>
-<td valign="top">
-<h3><a href="https://gunnarguy.me/projects/openmanual/">OpenManual</a></h3>
-<p><sub>iPhone &nbsp;·&nbsp; heading to the App Store &nbsp;·&nbsp; source private until it ships</sub></p>
-<p>Point your phone at a device, appliance, tool, vehicle, or other documented thing. OpenManual identifies the exact unit, finds the manufacturer documentation that applies to that device and revision, and answers "How do I ___?" using only that document, with page-level citations. No OpenManual backend. No account. No API key. Camera frames and imported PDFs stay on the iPhone.</p>
-<p>
-<a href="https://gunnarguy.me/projects/openmanual/">Deep dive</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/openmanual/">Product site</a>
 </p>
 </td>
 </tr>
