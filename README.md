@@ -70,7 +70,7 @@ Everything here is built and shipped solo.
 <p align="center"><a href="https://gunnarguy.me/projects/openresponses/"><img src="assets/openresponses-icon.png" width="96" height="96" alt="OpenResponses app icon"></a></p>
 <h3 align="center"><a href="https://gunnarguy.me/projects/openresponses/">OpenResponses</a></h3>
 <p align="center"><sub>iPhone and iPad &nbsp;·&nbsp; on the App Store since January 2026</sub></p>
-<p>An iOS/iPadOS App built around the OpenAI Responses API. Native computer use and MCP connectors, passed App Review on the first try.</p>
+<p>An iOS/iPadOS App built around the OpenAI Responses API. Native computer use and MCP connectors, passed App Review on the first try. Version 2.6 adds an API Workbench, OAuth-connected MCP accounts, and voice that keeps listening.</p>
 <p align="center">
 <a href="https://apps.apple.com/app/apple-store/id6757338355?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
 <a href="https://github.com/Gunnarguy/OpenResponses">Source</a> &nbsp;·&nbsp;
