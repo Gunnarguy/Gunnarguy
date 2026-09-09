@@ -56,7 +56,9 @@ Everything here is built and shipped solo.
 <p><sub>iPhone and iPad &nbsp;·&nbsp; on the App Store since September 2026 &nbsp;·&nbsp; source private</sub></p>
 <p>Point your phone at a device, appliance, tool, vehicle, or other documented thing. OpenManual identifies the exact unit, finds the manufacturer documentation that applies to that device and revision, and answers "How do I ___?" using only that document, with page-level citations. No OpenManual backend. No account. No API key. Camera frames and imported PDFs stay on the iPhone.</p>
 <p>
-<a href="https://apps.apple.com/app/apple-store/id6804523993?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
+<a href="https://apps.apple.com/app/apple-store/id6804523993?pt=127101782&ct=GitHub_Profile&mt=8"><img src="assets/download-on-the-app-store.svg" alt="Download on the App Store" height="40"></a>
+</p>
+<p>
 <a href="https://gunnarguy.me/projects/openmanual/">Deep dive</a> &nbsp;·&nbsp;
 <a href="https://gunzino.me/openmanual/">Product site</a>
 </p>
