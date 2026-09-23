@@ -15,7 +15,7 @@
 
 **I build Apple-native apps that turn dense, messy information into something you can search, inspect, and trust.**
 
-I build AI-native iOS apps. Five are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. The rest of my time, I'm in the operating room: intraoperative technical support for Stryker at the VA in Palo Alto, in the room with Stanford surgical teams. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
+I build AI-native iOS apps. Four are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. The rest of my time, I'm in the operating room: intraoperative technical support for Stryker at the VA in Palo Alto, in the room with Stanford surgical teams. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
 
 Everything here is built and shipped solo.
 
@@ -95,10 +95,9 @@ Everything here is built and shipped solo.
 <td width="33%" valign="top">
 <p align="center"><a href="https://gunnarguy.me/projects/openassistant/"><img src="assets/openassistant-icon.png" width="96" height="96" alt="OpenAssistant app icon"></a></p>
 <h3 align="center"><a href="https://gunnarguy.me/projects/openassistant/">OpenAssistant</a></h3>
-<p align="center"><sub>ARCHIVED &nbsp;·&nbsp; iPhone and iPad &nbsp;·&nbsp; on the App Store since October 2024</sub></p>
-<p>My first shipped iOS App, built around the OpenAI Assistants v2 API. Engineered to handle vector stores, document uploads, active run polling, and strategy-driven local file preprocessing. Where I learned to ship: App Store approved after 30 rejections taught me the reviews. Archived now that the Assistants API is deprecated.</p>
+<p align="center"><sub>ARCHIVED &nbsp;·&nbsp; iPhone and iPad &nbsp;·&nbsp; on the App Store from October 2024 to September 2026</sub></p>
+<p>My first shipped iOS App, built around the OpenAI Assistants v2 API. Engineered to handle vector stores, document uploads, active run polling, and strategy-driven local file preprocessing. Where I learned to ship: App Store approved after 30 rejections taught me the reviews. Archived and removed from sale after OpenAI shut down the Assistants API on August 26, 2026.</p>
 <p align="center">
-<a href="https://apps.apple.com/app/apple-store/id6692613772?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
 <a href="https://github.com/Gunnarguy/OpenAssistant">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openassistant/">Deep dive</a> &nbsp;·&nbsp;
 <a href="https://gunzino.me/openassistant/">Product site</a>
@@ -116,8 +115,8 @@ Everything here is built and shipped solo.
 </td>
 <td valign="top">
 <h3><a href="https://gunnarguy.me/projects/openclinic/">OpenClinic</a></h3>
-<p><sub>iPhone and iPad &nbsp;·&nbsp; proof of concept, not production medical software &nbsp;·&nbsp; open source</sub></p>
-<p>An EHR prototype iOS/iPadOS App for exploring local-first retrieval around chart-shaped patient data. SMART on FHIR over OAuth, pulled into on-device SwiftData, answered with citations. I wanted to see what would happen if I applied the same OpenIntelligence engine to clinical information.</p>
+<p><sub>iPhone and iPad &nbsp;·&nbsp; proof of concept, not production medical software &nbsp;·&nbsp; source public, no license</sub></p>
+<p>An EHR prototype iOS/iPadOS App for exploring local-first retrieval around chart-shaped patient data. SMART on FHIR over OAuth, pulled into on-device SwiftData, answered with citations. I wanted to see what would happen if I adapted parts of the OpenIntelligence engine to clinical information.</p>
 <p>
 <a href="https://github.com/Gunnarguy/OpenClinic">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openclinic/">Deep dive</a>
@@ -138,11 +137,11 @@ Native when it matters. Local when it can be. Sources visible when an answer nee
 
 ## Also on GitHub
 
-- [PlaudBlender](https://github.com/Gunnarguy/PlaudBlender) — Local-first Plaud recording pipeline and personal knowledge timeline with Python, SQLite, Qdrant, RAG, 3D graphs, MCP tools, and a SwiftUI companion.
+- [PlaudBlender](https://github.com/Gunnarguy/PlaudBlender) — Self-hosted Plaud recording pipeline and personal knowledge timeline with Python, SQLite, Qdrant, RAG, 3D graphs, MCP tools, and a SwiftUI companion.
 - [OpenCore](https://github.com/Gunnarguy/OpenCore) — An evidence-native runtime for personal intelligence. Bitemporal claims, inspectable beliefs, and receipts for every answer.
 - [USB](https://github.com/Gunnarguy/USB) — Native macOS SwiftUI USB inspector using IOKit and Disk Arbitration for device enumeration, descriptors, power, speed, storage health, and live I/O activity.
-- [Microphone](https://github.com/Gunnarguy/Microphone) — Native SwiftUI microphone testing and profiling suite for iPhone, Mac, and Apple Watch with spectrum analysis, frequency response, latency, noise, speech clarity, and exportable reports.
-- [WoWCA](https://github.com/Gunnarguy/WoWCA) — Offline-first Classic Era item and spell database for iPhone, iPad, and Apple Vision Pro, built with SwiftUI, SQLite FTS5, and a reproducible data pipeline.
+- [Microphone](https://github.com/Gunnarguy/Microphone) — Native SwiftUI microphone testing and profiling suite for iPhone, iPad, Mac, and Apple Vision Pro with spectrum analysis, frequency response, latency, noise, speech clarity, and exportable reports.
+- [WoWCA](https://github.com/Gunnarguy/WoWCA) — Offline-first Classic Era item and spell database for iPhone, built with SwiftUI, GRDB and SQLite FTS5.
 
 ## Where things live
 
