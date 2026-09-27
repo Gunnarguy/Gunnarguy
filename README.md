@@ -10,6 +10,7 @@
   <a href="https://gunzino.me">gunzino.me</a> &nbsp;·&nbsp;
   <a href="https://fascinaiting.me">fascinaiting.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gunnar-hostetler/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/Gunzeroni">X</a> &nbsp;·&nbsp;
   <a href="mailto:Gunnarguy@me.com">Gunnarguy@me.com</a>
 </p>
 
