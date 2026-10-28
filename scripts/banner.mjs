@@ -29,7 +29,7 @@ for (const [name, t] of Object.entries(themes)) {
     h("div", { position: "absolute", top: -260, right: -140, width: 720, height: 720, borderRadius: 360, background: `radial-gradient(circle at center, ${t.glow} 0%, rgba(0,0,0,0) 62%)` }),
     h("div", { position: "absolute", bottom: -300, left: -120, width: 620, height: 620, borderRadius: 310, background: `radial-gradient(circle at center, ${t.glow2} 0%, rgba(0,0,0,0) 62%)` }),
     h("div", { display: "flex", flexDirection: "column", justifyContent: "center", padding: "0 0 0 72px", width: 660, height: 400 }, [
-      h("div", { fontFamily: "Outfit", fontWeight: 700, fontSize: 15, letterSpacing: 1.6, color: t.accent, textTransform: "uppercase", marginBottom: 18 }, "AI-Native iOS Developer + Surgical Technology Support"),
+      h("div", { fontFamily: "Outfit", fontWeight: 700, fontSize: 15, letterSpacing: 1.6, color: t.accent, textTransform: "uppercase", marginBottom: 18 }, "AI-Native iOS Developer"),
       h("div", { fontFamily: "Outfit", fontWeight: 800, fontSize: 74, lineHeight: 1.02, letterSpacing: -2.5, color: t.ink }, "Gunnar Hostetler"),
       h("div", { fontSize: 22, lineHeight: 1.4, color: t.muted, marginTop: 20, fontWeight: 400, maxWidth: 540 }, "AI-native apps for iPhone, iPad, and Mac, built around on-device AI, retrieval, and agentic reasoning loops."),
       h("div", { display: "flex", alignItems: "center", gap: 10, marginTop: 30, fontFamily: "Outfit", fontWeight: 700, fontSize: 18, color: t.ink }, [

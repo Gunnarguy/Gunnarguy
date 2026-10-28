@@ -1,7 +1,7 @@
 <a href="https://gunnarguy.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="Gunnar Hostetler. AI-native iOS developer and surgical technology support. The icons of six apps: OpenIntelligence, OpenManual, OpenResponses, OpenCone, OpenAssistant, OpenClinic." width="100%">
+    <img src="assets/banner-light.png" alt="Gunnar Hostetler. AI-native iOS developer. The icons of six apps: OpenIntelligence, OpenManual, OpenResponses, OpenCone, OpenAssistant, OpenClinic." width="100%">
   </picture>
 </a>
 
@@ -16,7 +16,7 @@
 
 **I build Apple-native apps that turn dense, messy information into something you can search, inspect, and trust.**
 
-I build AI-native iOS apps. Four are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. The rest of my time, I'm in the operating room: intraoperative technical support for Stryker at the VA in Palo Alto, in the room with Stanford surgical teams. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
+I build AI-native iOS apps. Four are on the App Store, built around on-device AI, retrieval, and agentic reasoning loops. Every app I've built started as an idea, which led to a question, which led to a doc or two, which led to a prototype, which led to more questions, and so on until it finally worked.
 
 Everything here is built and shipped solo.
 
