@@ -16,7 +16,6 @@ SRC = {
     "openresponses": f"{G}/OpenResponses/OpenResponses/Resources/Assets/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
     "opencone": f"{G}/OpenCone/OpenCone/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
     "openassistant": f"{G}/OpenAssistant/OpenAssistant/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
-    "openclinic": f"{G}/OpenClinic/OpenClinic/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
 }
 SIZE, SS = 512, 4
 

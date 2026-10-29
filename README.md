@@ -1,7 +1,7 @@
 <a href="https://gunnarguy.me">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <img src="assets/banner-light.png" alt="Gunnar Hostetler. AI-native iOS developer. The icons of six apps: OpenIntelligence, OpenManual, OpenResponses, OpenCone, OpenAssistant, OpenClinic." width="100%">
+    <img src="assets/banner-light.png" alt="Gunnar Hostetler. AI-native iOS developer. The icons of five apps: OpenIntelligence, OpenManual, OpenResponses, OpenCone, OpenAssistant." width="100%">
   </picture>
 </a>
 
@@ -102,25 +102,6 @@ Everything here is built and shipped solo.
 <a href="https://github.com/Gunnarguy/OpenAssistant">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openassistant/">Deep dive</a> &nbsp;·&nbsp;
 <a href="https://gunzino.me/openassistant/">Product site</a>
-</p>
-</td>
-</tr>
-</table>
-
-## Prototype
-
-<table>
-<tr>
-<td width="150" align="center" valign="top">
-<a href="https://gunnarguy.me/projects/openclinic/"><img src="assets/openclinic-icon.png" width="120" height="120" alt="OpenClinic app icon"></a>
-</td>
-<td valign="top">
-<h3><a href="https://gunnarguy.me/projects/openclinic/">OpenClinic</a></h3>
-<p><sub>iPhone and iPad &nbsp;·&nbsp; proof of concept, not production medical software &nbsp;·&nbsp; source public, no license</sub></p>
-<p>An EHR prototype iOS/iPadOS App for exploring local-first retrieval around chart-shaped patient data. SMART on FHIR over OAuth, pulled into on-device SwiftData, answered with citations. I wanted to see what would happen if I adapted parts of the OpenIntelligence engine to clinical information.</p>
-<p>
-<a href="https://github.com/Gunnarguy/OpenClinic">Source</a> &nbsp;·&nbsp;
-<a href="https://gunnarguy.me/projects/openclinic/">Deep dive</a>
 </p>
 </td>
 </tr>

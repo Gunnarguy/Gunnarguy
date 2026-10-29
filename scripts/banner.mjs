@@ -17,7 +17,7 @@ const fonts = [
   { name: "Inter", data: await font("@fontsource/inter", "inter-latin-400-normal.woff"), weight: 400, style: "normal" },
 ];
 const ICONS = "/Users/gunnarhostetler/Documents/GitHub/Gunnarguy/assets";
-const slugs = ["openintelligence", "openmanual", "openresponses", "opencone", "openassistant", "openclinic"];
+const slugs = ["openintelligence", "openmanual", "openresponses", "opencone", "openassistant"];
 const icons = await Promise.all(slugs.map(async (s) => `data:image/png;base64,${(await readFile(`${ICONS}/${s}-icon.png`)).toString("base64")}`));
 const h = (type, style, children, extra = {}) => ({ type, props: { style, children, ...extra } });
 const themes = {
@@ -29,7 +29,7 @@ for (const [name, t] of Object.entries(themes)) {
     h("div", { position: "absolute", top: -260, right: -140, width: 720, height: 720, borderRadius: 360, background: `radial-gradient(circle at center, ${t.glow} 0%, rgba(0,0,0,0) 62%)` }),
     h("div", { position: "absolute", bottom: -300, left: -120, width: 620, height: 620, borderRadius: 310, background: `radial-gradient(circle at center, ${t.glow2} 0%, rgba(0,0,0,0) 62%)` }),
     h("div", { display: "flex", flexDirection: "column", justifyContent: "center", padding: "0 0 0 72px", width: 660, height: 400 }, [
-      h("div", { fontFamily: "Outfit", fontWeight: 700, fontSize: 15, letterSpacing: 1.6, color: t.accent, textTransform: "uppercase", marginBottom: 18 }, "AI-Native iOS Developer"),
+      h("div", { display: "flex", gap: 8, fontFamily: "Outfit", fontWeight: 700, fontSize: 15, letterSpacing: 1.6, color: t.accent, marginBottom: 18 }, ["AI-NATIVE", "iOS", "DEVELOPER"].map((w) => h("div", {}, w))),
       h("div", { fontFamily: "Outfit", fontWeight: 800, fontSize: 74, lineHeight: 1.02, letterSpacing: -2.5, color: t.ink }, "Gunnar Hostetler"),
       h("div", { fontSize: 22, lineHeight: 1.4, color: t.muted, marginTop: 20, fontWeight: 400, maxWidth: 540 }, "AI-native apps for iPhone, iPad, and Mac, built around on-device AI, retrieval, and agentic reasoning loops."),
       h("div", { display: "flex", alignItems: "center", gap: 10, marginTop: 30, fontFamily: "Outfit", fontWeight: 700, fontSize: 18, color: t.ink }, [
@@ -40,7 +40,7 @@ for (const [name, t] of Object.entries(themes)) {
       ]),
     ]),
     h("div", { position: "absolute", right: 72, top: 0, height: 400, display: "flex", alignItems: "center" },
-      h("div", { display: "flex", flexWrap: "wrap", width: 3 * 132 + 2 * 18, gap: 18 }, icons.map((src) => h("img", { width: 132, height: 132, boxShadow: t.shadow, borderRadius: 30 }, undefined, { src, width: 132, height: 132 })))),
+      h("div", { display: "flex", flexWrap: "wrap", justifyContent: "center", width: 3 * 132 + 2 * 18, gap: 18 }, icons.map((src) => h("img", { width: 132, height: 132, boxShadow: t.shadow, borderRadius: 30 }, undefined, { src, width: 132, height: 132 })))),
   ]);
   const svg = await satori(tree, { width: 1200, height: 400, fonts });
   const png = new Resvg(svg, { fitTo: { mode: "width", value: 1200 } }).render().asPng();
