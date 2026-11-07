@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://gunnarguy.me"><strong>gunnarguy.me</strong></a> &nbsp;·&nbsp;
-  <a href="https://gunzino.me">gunzino.me</a> &nbsp;·&nbsp;
-  <a href="https://fascinaiting.me">fascinaiting.me</a> &nbsp;·&nbsp;
+  <a href="https://gunndamental.com">gunndamental.com</a> &nbsp;·&nbsp;
+  <a href="https://openintelligence.me">openintelligence.me</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/gunnar-hostetler/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://x.com/Gunzeroni">X</a> &nbsp;·&nbsp;
   <a href="mailto:Gunnarguy@me.com">Gunnarguy@me.com</a>
@@ -41,10 +41,10 @@ Everything here is built and shipped solo.
 <a href="https://gunnarguy.me/projects/openintelligence/#how-i-know-if-it-actually-works">How I know if it actually works</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openintelligence/research/">Research notes</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openintelligence/#docs">Docs</a> &nbsp;·&nbsp;
-<a href="https://fascinaiting.me">Interactive showcase</a> &nbsp;·&nbsp;
+<a href="https://openintelligence.me">Interactive showcase</a> &nbsp;·&nbsp;
 <a href="https://gunzino.notion.site/OpenIntelligence-Public-Roadmap-e4446012bb8940e6b78a745aee688075">Public roadmap</a> &nbsp;·&nbsp;
 <a href="https://www.youtube.com/playlist?list=PLG7ayF50szdiUIeF8gm7p4PhzXzQ_wUkR">Demos</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/openintelligence/">Product site</a>
+<a href="https://gunndamental.com/openintelligence/">Product site</a>
 </p>
 </td>
 </tr>
@@ -61,7 +61,7 @@ Everything here is built and shipped solo.
 </p>
 <p>
 <a href="https://gunnarguy.me/projects/openmanual/">Deep dive</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/openmanual/">Product site</a>
+<a href="https://gunndamental.com/openmanual/">Product site</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ Everything here is built and shipped solo.
 <a href="https://apps.apple.com/app/apple-store/id6757338355?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
 <a href="https://github.com/Gunnarguy/OpenResponses">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openresponses/">Deep dive</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/openresponses/">Product site</a>
+<a href="https://gunndamental.com/openresponses/">Product site</a>
 </p>
 </td>
 <td width="33%" valign="top">
@@ -90,7 +90,7 @@ Everything here is built and shipped solo.
 <a href="https://apps.apple.com/app/apple-store/id6744467668?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
 <a href="https://github.com/Gunnarguy/OpenCone">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/opencone/">Deep dive</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/opencone/">Product site</a>
+<a href="https://gunndamental.com/opencone/">Product site</a>
 </p>
 </td>
 <td width="33%" valign="top">
@@ -101,7 +101,7 @@ Everything here is built and shipped solo.
 <p align="center">
 <a href="https://github.com/Gunnarguy/OpenAssistant">Source</a> &nbsp;·&nbsp;
 <a href="https://gunnarguy.me/projects/openassistant/">Deep dive</a> &nbsp;·&nbsp;
-<a href="https://gunzino.me/openassistant/">Product site</a>
+<a href="https://gunndamental.com/openassistant/">Product site</a>
 </p>
 </td>
 </tr>
@@ -130,8 +130,8 @@ Native when it matters. Local when it can be. Sources visible when an answer nee
 | Site | Role | What you'll find |
 |---|---|---|
 | [**gunnarguy.me**](https://gunnarguy.me) | The Creator | Everything I build, grouped by status, with a deep dive, research notes, and docs for each app. |
-| [**gunzino.me**](https://gunzino.me) | The Publisher | The apps on the App Store: product pages, support, and privacy. |
-| [**fascinaiting.me**](https://fascinaiting.me) | The Platform | The OpenIntelligence showcase: how it works under the hood, the live roadmap, the release history, and the guides. |
+| [**gunndamental.com**](https://gunndamental.com) | The Publisher | The apps on the App Store: product pages, support, and privacy. |
+| [**openintelligence.me**](https://openintelligence.me) | The Platform | The OpenIntelligence showcase: how it works under the hood, the live roadmap, the release history, and the guides. |
 
 <p align="center">
   <a href="https://gunnarguy.me"><strong>See the rest of my work at gunnarguy.me →</strong></a>

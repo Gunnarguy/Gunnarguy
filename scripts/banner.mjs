@@ -36,7 +36,7 @@ for (const [name, t] of Object.entries(themes)) {
         h("div", { width: 10, height: 10, borderRadius: 5, background: t.accent }),
         h("div", {}, "gunnarguy.me"),
         h("div", { width: 1, height: 16, background: t.rule, margin: "0 6px" }),
-        h("div", { fontWeight: 500, fontFamily: "Inter", color: t.muted, fontSize: 17 }, "gunzino.me · fascinaiting.me"),
+        h("div", { fontWeight: 500, fontFamily: "Inter", color: t.muted, fontSize: 17 }, "gunndamental.com · openintelligence.me"),
       ]),
     ]),
     h("div", { position: "absolute", right: 72, top: 0, height: 400, display: "flex", alignItems: "center" },
