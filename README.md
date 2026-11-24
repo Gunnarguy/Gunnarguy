@@ -72,8 +72,8 @@ Everything here is built and shipped solo.
 <td width="33%" valign="top">
 <p align="center"><a href="https://gunnarguy.me/projects/openresponses/"><img src="assets/openresponses-icon.png" width="96" height="96" alt="OpenResponses app icon"></a></p>
 <h3 align="center"><a href="https://gunnarguy.me/projects/openresponses/">OpenResponses</a></h3>
-<p align="center"><sub>iPhone and iPad &nbsp;·&nbsp; on the App Store since January 2026</sub></p>
-<p>An iOS/iPadOS App built around the OpenAI Responses API. Native computer use and MCP connectors, passed App Review on the first try. Version 3.0 puts every setting where you can find it, connects to a lot more apps, and shows you what the model is sending to a tool while it's still writing it.  2.9 shows what the assistant is doing while it uses its tools, and 2.8 added GPT-6.1 Sol, new OpenAI models that show up on their own, Python that runs on the phone, and search by meaning.</p>
+<p align="center"><sub>iPhone, iPad and Mac &nbsp;·&nbsp; on the App Store since January 2026</sub></p>
+<p>An iPhone, iPad and Mac app built around the OpenAI Responses API.  Native computer use and MCP connectors, passed App Review on the first try.  Version 3.1 adds GPT-6.2, comes to the Mac as a native app, and works outside the chat, with Shortcuts, Siri and the share sheet, and those are OpenResponses Pro, a one-time $4.99 purchase.  Everything that was already in the app stays free, including 3.0's Settings search and Connectors, 2.9's tool steps that say what the assistant is doing, and 2.8's Python that runs on the phone.</p>
 <p align="center">
 <a href="https://apps.apple.com/app/apple-store/id6757338355?pt=127101782&ct=GitHub_Profile&mt=8">App Store</a> &nbsp;·&nbsp;
 <a href="https://github.com/Gunnarguy/OpenResponses">Source</a> &nbsp;·&nbsp;
